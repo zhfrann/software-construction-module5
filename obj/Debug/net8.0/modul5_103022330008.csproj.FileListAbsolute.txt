@@ -1,0 +1,15 @@
+C:\Users\PRAKTIKAN\Documents\mod5\modul5_103022330008\obj\Debug\net8.0\modul5_103022330008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Documents\mod5\modul5_103022330008\obj\Debug\net8.0\modul5_103022330008.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Documents\mod5\modul5_103022330008\obj\Debug\net8.0\modul5_103022330008.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Documents\mod5\modul5_103022330008\obj\Debug\net8.0\modul5_103022330008.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\mod5\modul5_103022330008\obj\Debug\net8.0\modul5_103022330008.sourcelink.json
+C:\Users\PRAKTIKAN\Documents\mod5\modul5_103022330008\bin\Debug\net8.0\modul5_103022330008.exe
+C:\Users\PRAKTIKAN\Documents\mod5\modul5_103022330008\bin\Debug\net8.0\modul5_103022330008.deps.json
+C:\Users\PRAKTIKAN\Documents\mod5\modul5_103022330008\bin\Debug\net8.0\modul5_103022330008.runtimeconfig.json
+C:\Users\PRAKTIKAN\Documents\mod5\modul5_103022330008\bin\Debug\net8.0\modul5_103022330008.dll
+C:\Users\PRAKTIKAN\Documents\mod5\modul5_103022330008\bin\Debug\net8.0\modul5_103022330008.pdb
+C:\Users\PRAKTIKAN\Documents\mod5\modul5_103022330008\obj\Debug\net8.0\modul5_103022330008.dll
+C:\Users\PRAKTIKAN\Documents\mod5\modul5_103022330008\obj\Debug\net8.0\refint\modul5_103022330008.dll
+C:\Users\PRAKTIKAN\Documents\mod5\modul5_103022330008\obj\Debug\net8.0\modul5_103022330008.pdb
+C:\Users\PRAKTIKAN\Documents\mod5\modul5_103022330008\obj\Debug\net8.0\modul5_103022330008.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\Documents\mod5\modul5_103022330008\obj\Debug\net8.0\ref\modul5_103022330008.dll
