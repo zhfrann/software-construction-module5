@@ -42,7 +42,6 @@ class PemrosesData
         for (int i = 0; i < this.storedData.Count; i++)
         {
             Console.WriteLine($"Data {i + 1} berisi: {this.storedData[i]}, yang disimpan pada waktu UTC: {this.inputDates[i].ToString()}");
-            Console.WriteLine($"Data {i + 1} berisi: {this.storedData[i]}, yang disimpan pada waktu UTC: {this.inputDates[i].ToString()}");
         }
     }
 }
